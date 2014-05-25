@@ -1,0 +1,789 @@
+Nombre de bus 448
+Bus 701054 Nombre d'anomalie1
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 702015 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 2
+
+Bus 700416 Nombre d'anomalie2
+Born HOG/01 Nombre d'anomalie 1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700749 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700853 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 702009 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 701008 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 770031 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 7
+
+Bus 701014 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 701021 Nombre d'anomalie2
+Born UIOM2/02 Nombre d'anomalie 1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700740 Nombre d'anomalie3
+Born CRB/01 Nombre d'anomalie 1
+Born ELS/01 Nombre d'anomalie 1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 700712 Nombre d'anomalie2
+Born ELS/01 Nombre d'anomalie 1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700854 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 701040 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 700322 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 700353 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 3
+
+Bus 700780 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 2
+
+Bus 700589 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 701036 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 2
+
+Bus 701056 Nombre d'anomalie1
+Born ELS/01 Nombre d'anomalie 2
+
+Bus 700733 Nombre d'anomalie1
+Born ELS/01 Nombre d'anomalie 6
+
+Bus 700592 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 701031 Nombre d'anomalie2
+Born CRB/01 Nombre d'anomalie 1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 700424 Nombre d'anomalie1
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 790502 Nombre d'anomalie2
+Born UIOM2/02 Nombre d'anomalie 1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 790301 Nombre d'anomalie2
+Born ELS/01 Nombre d'anomalie 1
+Born CRB/01 Nombre d'anomalie 12
+
+Bus 790501 Nombre d'anomalie3
+Born UIOM2/02 Nombre d'anomalie 2
+Born CRB/01 Nombre d'anomalie 11
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 790306 Nombre d'anomalie1
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 701017 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 770120 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 14
+
+Bus 701007 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700425 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 6
+
+Bus 700856 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700404 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 790602 Nombre d'anomalie3
+Born UIOM2/02 Nombre d'anomalie 33
+Born CRB/01 Nombre d'anomalie 5
+Born TUN/01 Nombre d'anomalie 11
+
+Bus 790614 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700857 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 701015 Nombre d'anomalie2
+Born UIOM2/02 Nombre d'anomalie 1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700729 Nombre d'anomalie1
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 700783 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700808 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700728 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700764 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 2
+
+Bus 700727 Nombre d'anomalie1
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 700807 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700715 Nombre d'anomalie1
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 700725 Nombre d'anomalie2
+Born ELS/01 Nombre d'anomalie 1
+Born CRB/01 Nombre d'anomalie 5
+
+Bus 790852 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 3
+
+Bus 701060 Nombre d'anomalie2
+Born UIOM2/02 Nombre d'anomalie 2
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 790150 Nombre d'anomalie1
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 780401 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 780501 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 780903 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 780905 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 780306 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 780407 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 780811 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 780511 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 780812 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 780512 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 780513 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 780821 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 780522 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 781045 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 781248 Nombre d'anomalie1
+Born HOG/01 Nombre d'anomalie 1
+
+Bus 780351 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 780952 Nombre d'anomalie1
+Born HOG/01 Nombre d'anomalie 1
+
+Bus 780452 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 780352 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 780353 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 780355 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 780356 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 780961 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 780364 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 781171 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 781172 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 781174 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 781179 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 780390 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 780392 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 781195 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 700307 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 3
+
+Bus 700306 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 700755 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 12
+
+Bus 700756 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 700759 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 700760 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 4
+
+Bus 700761 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700762 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 2
+
+Bus 700765 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 700769 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 700771 Nombre d'anomalie2
+Born UIOM2/02 Nombre d'anomalie 17
+Born CRB/01 Nombre d'anomalie 3
+
+Bus 700775 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 700776 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 3
+
+Bus 700777 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700779 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 5
+
+Bus 700786 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 700787 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 2
+
+Bus 700789 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700792 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 700758 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 700710 Nombre d'anomalie2
+Born ELS/01 Nombre d'anomalie 1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 700714 Nombre d'anomalie1
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 700748 Nombre d'anomalie2
+Born CRB/01 Nombre d'anomalie 2
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 700746 Nombre d'anomalie1
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 700743 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 3
+
+Bus 700741 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700809 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 700736 Nombre d'anomalie1
+Born ELS/01 Nombre d'anomalie 2
+
+Bus 700977 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700723 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700720 Nombre d'anomalie1
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 702023 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 702018 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 701034 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 3
+
+Bus 702013 Nombre d'anomalie2
+Born CRB/01 Nombre d'anomalie 5
+Born UIOM2/02 Nombre d'anomalie 4
+
+Bus 701032 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 701058 Nombre d'anomalie1
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 701016 Nombre d'anomalie1
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 701033 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 702036 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 701010 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700709 Nombre d'anomalie2
+Born ELS/01 Nombre d'anomalie 1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700750 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700751 Nombre d'anomalie1
+Born ELS/01 Nombre d'anomalie 3
+
+Bus 700754 Nombre d'anomalie1
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 702040 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 701018 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 701013 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 701063 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700321 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 3
+
+Bus 790191 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 9
+
+Bus 770084 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 700325 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 700331 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700352 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 5
+
+Bus 702028 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700876 Nombre d'anomalie2
+Born CRB/01 Nombre d'anomalie 1
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 790190 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 702033 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 701006 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 701023 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700862 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700310 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 701052 Nombre d'anomalie2
+Born CRB/01 Nombre d'anomalie 2
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 700315 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 3
+
+Bus 700879 Nombre d'anomalie1
+Born ELS/01 Nombre d'anomalie 4
+
+Bus 700598 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700312 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700884 Nombre d'anomalie2
+Born ELS/01 Nombre d'anomalie 2
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700881 Nombre d'anomalie1
+Born ELS/01 Nombre d'anomalie 2
+
+Bus 702030 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 790160 Nombre d'anomalie2
+Born UIOM2/02 Nombre d'anomalie 13
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700343 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700317 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 700401 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700882 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700866 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700885 Nombre d'anomalie1
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 700349 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 700333 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 790201 Nombre d'anomalie3
+Born CRB/01 Nombre d'anomalie 9
+Born ELS/01 Nombre d'anomalie 3
+Born UIOM2/02 Nombre d'anomalie 9
+
+Bus 700308 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 700620 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 6
+
+Bus 770116 Nombre d'anomalie3
+Born ELS/01 Nombre d'anomalie 5
+Born UIOM2/02 Nombre d'anomalie 1
+Born CRB/01 Nombre d'anomalie 17
+
+Bus 790405 Nombre d'anomalie3
+Born ELS/01 Nombre d'anomalie 2
+Born UIOM2/02 Nombre d'anomalie 4
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 790603 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 3
+
+Bus 700318 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 700595 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 790303 Nombre d'anomalie3
+Born CRB/01 Nombre d'anomalie 3
+Born UIOM2/02 Nombre d'anomalie 1
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 700810 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 700316 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 3
+
+Bus 700314 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 700409 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 702008 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700421 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700320 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 700886 Nombre d'anomalie1
+Born ELS/01 Nombre d'anomalie 3
+
+Bus 700330 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 700319 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 4
+
+Bus 700337 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700864 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 700890 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 700616 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 700414 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 5
+
+Bus 700872 Nombre d'anomalie1
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 790186 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 770059 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 11
+
+Bus 790106 Nombre d'anomalie2
+Born UIOM2/02 Nombre d'anomalie 1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 700621 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 700341 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 700887 Nombre d'anomalie2
+Born ELS/01 Nombre d'anomalie 1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 790189 Nombre d'anomalie2
+Born UIOM2/02 Nombre d'anomalie 49
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 700657 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 701011 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 700622 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 700896 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 3
+
+Bus 790308 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 5
+
+Bus 700867 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 701019 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 700803 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 700350 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 700897 Nombre d'anomalie1
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 700899 Nombre d'anomalie1
+Born ELS/01 Nombre d'anomalie 2
+
+Bus 790080 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 81
+
+Bus 770099 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 4
+
+Bus 700802 Nombre d'anomalie3
+Born CRB/01 Nombre d'anomalie 4
+Born HOG/01 Nombre d'anomalie 1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 700335 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 790402 Nombre d'anomalie3
+Born CRB/01 Nombre d'anomalie 9
+Born UIOM2/02 Nombre d'anomalie 1
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 702029 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 2
+
+Bus 702012 Nombre d'anomalie1
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 790641 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 790404 Nombre d'anomalie3
+Born UIOM2/02 Nombre d'anomalie 6
+Born ELS/01 Nombre d'anomalie 4
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 790401 Nombre d'anomalie3
+Born ELS/01 Nombre d'anomalie 2
+Born UIOM2/02 Nombre d'anomalie 5
+Born CRB/01 Nombre d'anomalie 4
+
+Bus 790642 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 780360 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 702011 Nombre d'anomalie1
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 700006 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 3
+
+Bus 790312 Nombre d'anomalie2
+Born UIOM2/02 Nombre d'anomalie 10
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 790751 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 292
+
+Bus 790686 Nombre d'anomalie2
+Born CRB/01 Nombre d'anomalie 9
+Born UIOM2/02 Nombre d'anomalie 11
+
+Bus 700976 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 1
+
+Bus 790114 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 55
+
+Bus 700351 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 790756 Nombre d'anomalie1
+Born UIOM2/02 Nombre d'anomalie 75
+
+Bus 700894 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 790221 Nombre d'anomalie3
+Born HOG/01 Nombre d'anomalie 4
+Born UIOM2/02 Nombre d'anomalie 2
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 790406 Nombre d'anomalie3
+Born CRB/01 Nombre d'anomalie 4
+Born TUN/01 Nombre d'anomalie 2
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 781173 Nombre d'anomalie2
+Born CRB/01 Nombre d'anomalie 176
+Born UIOM2/02 Nombre d'anomalie 66
+
+Bus 790110 Nombre d'anomalie2
+Born UIOM2/02 Nombre d'anomalie 1
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 790608 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 4
+
+Bus 790310 Nombre d'anomalie3
+Born CRB/01 Nombre d'anomalie 4
+Born UIOM2/02 Nombre d'anomalie 10
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 790070 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 790112 Nombre d'anomalie2
+Born ELS/01 Nombre d'anomalie 1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 790202 Nombre d'anomalie3
+Born UIOM2/02 Nombre d'anomalie 32
+Born CRB/01 Nombre d'anomalie 1
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 700880 Nombre d'anomalie1
+Born ELS/01 Nombre d'anomalie 2
+
+Bus 770130 Nombre d'anomalie4
+Born UIOM2/02 Nombre d'anomalie 1
+Born HOG/01 Nombre d'anomalie 1
+Born CRB/01 Nombre d'anomalie 2
+Born ELS/01 Nombre d'anomalie 1
+
+Bus 790107 Nombre d'anomalie2
+Born UIOM2/02 Nombre d'anomalie 163
+Born CRB/01 Nombre d'anomalie 5
+
+Bus 700726 Nombre d'anomalie2
+Born ELS/01 Nombre d'anomalie 1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 790117 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 1
+
+Bus 700412 Nombre d'anomalie1
+Born CRB/01 Nombre d'anomalie 2
+
+Bus 790304 Nombre d'anomalie1
+Born ELS/01 Nombre d'anomalie 1
+
+Nombre de bus avec Anomalies 242
