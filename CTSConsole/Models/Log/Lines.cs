@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using CTSConsole.Models.His;
 
 namespace CTSConsole.Models.Log
@@ -24,31 +25,54 @@ namespace CTSConsole.Models.Log
             }
             return results;
         }
+        
 
-        public List<Traget> GetEnregistrementsByLine(int numeroLine)
+        
+        public List<Traget> MyInteligence(int numeroLine)
         {
-            List<Traget> results = new List<Traget>();
+            //List<Traget> result = GetEnregistrementsByLine(numeroLine);
+           // List<BusLog> buses = this.lines[numeroLine].Buses;
+            return new List<Traget>();
+        }
+        public List<ResultBus> GetEnregistrementsByLine(int numeroLine)
+        {
+            List<ResultBus> results = new List<ResultBus>();
             Dictionary<int, BusLog> buses = this.lines[numeroLine].Buses;
             foreach (var bus in buses)
             {
                 //exception a gére du enregistrement[0] 
+                Traget aller = new Traget();
+                Traget retour = new Traget();
                 List<EnregistrementDetail> ed = bus.Value.Enregistrements[0].Details;
                 int i = 0;
                 while (i<ed.Count)
                 {
                     Traget t = new Traget();
+                    char sense='0';
                     t.NumeroBus = bus.Key;
                     t.NumeroLine = numeroLine;
                     t.Sense = ed[i].Sense;
                     t.AddEnregistrement(ed[i]);
                     i++;
-                    while (i<ed.Count && (ed[i].DateEnregistrement-ed[i-1].DateEnregistrement).TotalMinutes<2 && ed[i].Sense == ed[i-1].Sense )
+                    while (i<ed.Count && (ed[i].DateEnregistrement-ed[i-1].DateEnregistrement).TotalMinutes<4 && ed[i].Sense == ed[i-1].Sense )
                     {
                         t.AddEnregistrement(ed[i]);
+                        sense = ed[i].Sense;
                         i++;
+                        
                     }
-                    results.Add(t);
+                    if (sense == 'A')
+                    {
+                        aller = aller.Fusion(t);
+                    }
+                    else if (sense == 'R')
+                    {
+                        retour = retour.Fusion(t);
+                    }
                 }
+
+                results.Add(new ResultBus(bus.Key,aller.Summarize(),retour.Summarize()));
+               
 
             }
             return results;

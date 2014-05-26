@@ -1,0 +1,5 @@
+C:\Users\NAIT\Documents\Visual Studio 2013\Projects\CTSConsole\CTSConsole\bin\Debug\CTSConsole.exe
+C:\Users\NAIT\Documents\Visual Studio 2013\Projects\CTSConsole\CTSConsole\bin\Debug\CTSConsole.pdb
+C:\Users\NAIT\Documents\Visual Studio 2013\Projects\CTSConsole\CTSConsole\obj\Debug\CTSConsole.csprojResolveAssemblyReference.cache
+C:\Users\NAIT\Documents\Visual Studio 2013\Projects\CTSConsole\CTSConsole\obj\Debug\CTSConsole.exe
+C:\Users\NAIT\Documents\Visual Studio 2013\Projects\CTSConsole\CTSConsole\obj\Debug\CTSConsole.pdb

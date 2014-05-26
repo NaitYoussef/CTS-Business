@@ -49,6 +49,17 @@ namespace CTSConsole.Models.His
         }
         private List<Bus> results = new List<Bus>();
         private List<string> borns = new List<string>();//pour teste si y'a des probleme en commune pour tous les bus
+        public List<Bus> ListeResult 
+        {
+            get
+            {
+                return this.results;
+            }
+            set
+            {
+                this.results = value;
+            } 
+        } 
         public void Print()
         {
             Console.WriteLine("Nombre de bus : "  + results.Count );

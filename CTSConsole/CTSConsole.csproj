@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Models\His\Anomalie.cs" />
+    <Compile Include="Models\His\ResultsManager.cs" />
     <Compile Include="Models\Log\BusLog.cs" />
     <Compile Include="Models\Log\Enregistrement.cs" />
     <Compile Include="Models\Log\EnregistrementDetail.cs" />
@@ -50,6 +51,8 @@
     <Compile Include="Models\His\Born.cs" />
     <Compile Include="Models\His\Bus.cs" />
     <Compile Include="Models\Log\Lines.cs" />
+    <Compile Include="Models\Log\LinesManager.cs" />
+    <Compile Include="Models\Log\ResultBus.cs" />
     <Compile Include="Models\Log\Traget.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
